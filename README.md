@@ -10,12 +10,6 @@ Buffer APIで画像付きX投稿を作るには、ログインなしで開ける
 - Local file: `x-posts/2026/06/x_post_2026-06-21_12-00_soccer.png`
 - Source file: `company/workspace/outputs/final_outputs/x_post_2026-06-21_12-00_soccer_candidate_v3.png`
 
-
-## 2026-06-22 18:00 投稿画像
-- Local file: `x-posts/2026/06/x_post_2026-06-22_18-00.svg`
-- Public URL: `https://yurukanbeers.github.io/yurukan-public-assets/x-posts/2026/06/x_post_2026-06-22_18-00.svg`
-- Theme: 月曜18時の退勤・帰り道・小さな回復感
-
 ## URL形式
 GitHub Pagesのリポジトリ名を `yurukan-public-assets` にする場合、画像URLは次の形式になります。
 
